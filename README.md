@@ -2,7 +2,7 @@
 图床
 
 ## 分类
-master
-work
-life
-other
+- master
+- work
+- life
+- other
